@@ -1,0 +1,13 @@
+---
+title: "Bayesian Analysis on Household Dietary Diversity"
+author: "Tiffany Hu"
+date: "Jun 10, 2024"
+---
+
+
+
+## <strong>Abstract</strong>
+
+Dietary diversity, defined as “a qualitative measure of food consumption that reflects household access to a variety of foods” (Guidelines for measuring household and individual dietary diversity, Food and Agriculture Organization of the United Nations), is a well-known metric for providing a straightforward and effective measurement of nutrition adequacy and indication of a household’s socio-economic status. By adopting the dietary diversity and socio-economic data of households in Tanzania (Dietary diversity and socio-economic data of households in Tanzania, Ochieng, J. et al, 2017), this study investigates the factors influencing household dietary diversity in Tanzania using Bayesian statistical models, including Poisson and Negative Binomial regressions. The Poisson Model was selected over the Negative binomial considering its higher value in the expected log predictive density in Leave-One-Out Cross Validation(elpd_loo) and lower value in Leave-One-Out information criterion(looic). And further model fitting and comparison using metrics like LOOIC and WAIC with different priors, including normal, Cauchy, non-informative, and Lasso, was employed to enhance the robustness and reliability of the analysis. The Lasso prior produced the lowest elpd_diff and se_diff (both are 0) when compared with models with other priors, suggesting the best performance. The results in the final selected model show that factors like village location, whether the household grows vegetables or not, whether the household has participated in nutritional training, and household size are associated with the household’s dietary diversity, signifying the impact of geographical and socio-economic factors in dietary diversity, with significant policy implications for improving nutritional quality as well as general well-being for not only households in Tanzania but also other countries in Africa.
+
+View the full paper [here](/projects/Dietary Diversity.pdf).

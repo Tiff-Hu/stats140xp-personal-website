@@ -1,0 +1,17 @@
+---
+title: "Text-based Financial Market Prediction Analysis"
+author: "Tiffany Hu"
+date: "Dec 10, 2024"
+---
+
+
+## <strong>Abstract</strong>
+
+The volatility and unpredictability of financial markets have long posed significant challenges to researchers, practitioners, and policymakers. This study investigates the integration of financial news sentiment and machine learning techniques to predict binary trends in global stock markets. By combining natural language processing (NLP) methods, such as TF-IDF and BERT embeddings, with sentiment analysis, the research extracts meaningful textual features from financial news and integrates them with historical stock price data. These features are used to train various machine learning models, including Random Forest, Naive Bayes, Support Vector Machine (SVM), Long Short-Term Memory (LSTM) networks, and transformer-based architectures. Additionally, an ensemble stacking method is employed to enhance predictive accuracy by leveraging the strengths of individual models.
+
+The results highlight that Naive Bayes and SVM achieved strong predictive accuracy of 70%, with Naive Bayes excelling in high-dimensional data and SVM leveraging decision boundaries but requiring optimization for class imbalances. LSTM demonstrated strengths in modeling sequential dependencies, achieving 70% accuracy, while BERT outperformed other models with superior semantic understanding. The ensemble stacking method also achieved an accuracy of 70%, showcasing the benefits of combining diverse techniques for financial trend prediction.
+
+This research provides a robust framework for financial trend prediction, emphasizing the potential of combining textual data with market indicators. It contributes to the growing field of financial NLP and predictive analytics, offering insights for future studies to explore real-time forecasting, incorporate alternative data sources, and advance transformer-based methodologies.
+
+View the full paper [here](/projects/Financial_Market_Prediction_Analysis.pdf).
+

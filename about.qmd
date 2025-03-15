@@ -2,8 +2,22 @@
 title: "About"
 ---
 
-About this site
+👋 About Me
 
-```{r}
-1 + 1
-```
+Hi, I’m Tiffany Hu, a statistian and researcher with a passion for human-computer interaction, natural language processing, and causal inference. My work focuses on using machine learning to drive discoveries in social sciences.
+
+
+🔬 What I Do
+
+I have experience in Bayesian modeling, natural language processing, and causal inference research. Currently, I’m working with Luskin School of Public Affairs, utilizing Bayesian hierarchical modeling on a project involving global walking and biking data.
+
+
+📂 About This Site
+
+This website serves as a hub for my research. Here, you’ll find insights into my work and a showcase of my latest projects.
+
+
+📬 Get in Touch
+
+You can find me on GitHub, LinkedIn, or reach out via email. My socials and email address can be found at the bottom of the Home page.
+

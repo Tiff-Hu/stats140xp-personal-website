@@ -4,13 +4,62 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "👋 About Me\nHi, I’m Tiffany Hu, a statistian and researcher with a passion for human-computer interaction, natural language processing, and causal inference. My work focuses on using machine learning to drive discoveries in social sciences.\n🔬 What I Do\nI have experience in Bayesian modeling, natural language processing, and causal inference research. Currently, I’m working with Luskin School of Public Affairs, utilizing Bayesian hierarchical modeling on a project involving global walking and biking data.\n📂 About This Site\nThis website serves as a hub for my research. Here, you’ll find insights into my work and a showcase of my latest projects.\n📬 Get in Touch\nYou can find me on GitHub, LinkedIn, or reach out via email. My socials and email address can be found at the bottom of the Home page."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "tiffany-personal-website",
+    "title": "Tiffany Hu",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "As a data enthusiast who has a deep love for uncovering insights hidden in data and transforming them into actionable strategies, I’ve worked on exciting projects that range from predictive modeling to natural language processing. Studying statistics at UCLA, I’m passionate about continuous learning and sharing knowledge with the community. Let’s connect and talk about all things data and beyond! Download My Resume."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Tiffany Hu",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA\nB.S. in Statistics | Sep. 2021 - Aug. 2025"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Tiffany Hu",
+    "section": "Experience",
+    "text": "Experience\nUCLA Anderson School of Management | Software Engineer | Dec. 2024 - present\n\nDesign and implement a full-stack application for chronic disease data analysis, integrating statistical models like logistic regression and survival analysis, and machine learning algorithms such as random forests and gradient boosting to uncover actionable insights.\n\nDepartment of Economics, UCLA | Data Research Team Lead | Oct. 2024 - present\n\nLed a team of research assistants and analyzed cognitive impairment trends across multiple countries, leveraging large-scale, multi-country datasets to uncover actionable insights for the International Long-Term Care Project.\n\nDepartment of Mathematics, UCLA | Data Assistant | Spe. 2022 - Dec. 2023\n\nAutomated and optimized data workflows using Python, streamlining grading processes and reducing manual workloads by 26%, ensuring efficient data management for 50+ students."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "projects",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJun 10, 2024\n\n\nBayesian Analysis on Household Dietary Diversity\n\n\nTiffany Hu\n\n\n\n\nDec 10, 2024\n\n\nText-based Financial Market Prediction Analysis\n\n\nTiffany Hu\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/project_1.html",
+    "href": "projects/project_1.html",
+    "title": "Bayesian Analysis on Household Dietary Diversity",
+    "section": "",
+    "text": "Dietary diversity, defined as “a qualitative measure of food consumption that reflects household access to a variety of foods” (Guidelines for measuring household and individual dietary diversity, Food and Agriculture Organization of the United Nations), is a well-known metric for providing a straightforward and effective measurement of nutrition adequacy and indication of a household’s socio-economic status. By adopting the dietary diversity and socio-economic data of households in Tanzania (Dietary diversity and socio-economic data of households in Tanzania, Ochieng, J. et al, 2017), this study investigates the factors influencing household dietary diversity in Tanzania using Bayesian statistical models, including Poisson and Negative Binomial regressions. The Poisson Model was selected over the Negative binomial considering its higher value in the expected log predictive density in Leave-One-Out Cross Validation(elpd_loo) and lower value in Leave-One-Out information criterion(looic). And further model fitting and comparison using metrics like LOOIC and WAIC with different priors, including normal, Cauchy, non-informative, and Lasso, was employed to enhance the robustness and reliability of the analysis. The Lasso prior produced the lowest elpd_diff and se_diff (both are 0) when compared with models with other priors, suggesting the best performance. The results in the final selected model show that factors like village location, whether the household grows vegetables or not, whether the household has participated in nutritional training, and household size are associated with the household’s dietary diversity, signifying the impact of geographical and socio-economic factors in dietary diversity, with significant policy implications for improving nutritional quality as well as general well-being for not only households in Tanzania but also other countries in Africa.\nView the full paper here."
+  },
+  {
+    "objectID": "projects/project_1.html#abstract",
+    "href": "projects/project_1.html#abstract",
+    "title": "Bayesian Analysis on Household Dietary Diversity",
+    "section": "",
+    "text": "Dietary diversity, defined as “a qualitative measure of food consumption that reflects household access to a variety of foods” (Guidelines for measuring household and individual dietary diversity, Food and Agriculture Organization of the United Nations), is a well-known metric for providing a straightforward and effective measurement of nutrition adequacy and indication of a household’s socio-economic status. By adopting the dietary diversity and socio-economic data of households in Tanzania (Dietary diversity and socio-economic data of households in Tanzania, Ochieng, J. et al, 2017), this study investigates the factors influencing household dietary diversity in Tanzania using Bayesian statistical models, including Poisson and Negative Binomial regressions. The Poisson Model was selected over the Negative binomial considering its higher value in the expected log predictive density in Leave-One-Out Cross Validation(elpd_loo) and lower value in Leave-One-Out information criterion(looic). And further model fitting and comparison using metrics like LOOIC and WAIC with different priors, including normal, Cauchy, non-informative, and Lasso, was employed to enhance the robustness and reliability of the analysis. The Lasso prior produced the lowest elpd_diff and se_diff (both are 0) when compared with models with other priors, suggesting the best performance. The results in the final selected model show that factors like village location, whether the household grows vegetables or not, whether the household has participated in nutritional training, and household size are associated with the household’s dietary diversity, signifying the impact of geographical and socio-economic factors in dietary diversity, with significant policy implications for improving nutritional quality as well as general well-being for not only households in Tanzania but also other countries in Africa.\nView the full paper here."
+  },
+  {
+    "objectID": "projects/project_2.html",
+    "href": "projects/project_2.html",
+    "title": "Text-based Financial Market Prediction Analysis",
+    "section": "",
+    "text": "The volatility and unpredictability of financial markets have long posed significant challenges to researchers, practitioners, and policymakers. This study investigates the integration of financial news sentiment and machine learning techniques to predict binary trends in global stock markets. By combining natural language processing (NLP) methods, such as TF-IDF and BERT embeddings, with sentiment analysis, the research extracts meaningful textual features from financial news and integrates them with historical stock price data. These features are used to train various machine learning models, including Random Forest, Naive Bayes, Support Vector Machine (SVM), Long Short-Term Memory (LSTM) networks, and transformer-based architectures. Additionally, an ensemble stacking method is employed to enhance predictive accuracy by leveraging the strengths of individual models.\nThe results highlight that Naive Bayes and SVM achieved strong predictive accuracy of 70%, with Naive Bayes excelling in high-dimensional data and SVM leveraging decision boundaries but requiring optimization for class imbalances. LSTM demonstrated strengths in modeling sequential dependencies, achieving 70% accuracy, while BERT outperformed other models with superior semantic understanding. The ensemble stacking method also achieved an accuracy of 70%, showcasing the benefits of combining diverse techniques for financial trend prediction.\nThis research provides a robust framework for financial trend prediction, emphasizing the potential of combining textual data with market indicators. It contributes to the growing field of financial NLP and predictive analytics, offering insights for future studies to explore real-time forecasting, incorporate alternative data sources, and advance transformer-based methodologies.\nView the full paper here."
+  },
+  {
+    "objectID": "projects/project_2.html#abstract",
+    "href": "projects/project_2.html#abstract",
+    "title": "Text-based Financial Market Prediction Analysis",
+    "section": "",
+    "text": "The volatility and unpredictability of financial markets have long posed significant challenges to researchers, practitioners, and policymakers. This study investigates the integration of financial news sentiment and machine learning techniques to predict binary trends in global stock markets. By combining natural language processing (NLP) methods, such as TF-IDF and BERT embeddings, with sentiment analysis, the research extracts meaningful textual features from financial news and integrates them with historical stock price data. These features are used to train various machine learning models, including Random Forest, Naive Bayes, Support Vector Machine (SVM), Long Short-Term Memory (LSTM) networks, and transformer-based architectures. Additionally, an ensemble stacking method is employed to enhance predictive accuracy by leveraging the strengths of individual models.\nThe results highlight that Naive Bayes and SVM achieved strong predictive accuracy of 70%, with Naive Bayes excelling in high-dimensional data and SVM leveraging decision boundaries but requiring optimization for class imbalances. LSTM demonstrated strengths in modeling sequential dependencies, achieving 70% accuracy, while BERT outperformed other models with superior semantic understanding. The ensemble stacking method also achieved an accuracy of 70%, showcasing the benefits of combining diverse techniques for financial trend prediction.\nThis research provides a robust framework for financial trend prediction, emphasizing the potential of combining textual data with market indicators. It contributes to the growing field of financial NLP and predictive analytics, offering insights for future studies to explore real-time forecasting, incorporate alternative data sources, and advance transformer-based methodologies.\nView the full paper here."
   }
 ]

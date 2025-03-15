@@ -1,11 +1,39 @@
+
 ---
-title: "tiffany-personal-website"
+title: "Tiffany Hu"
+about:
+  template: broadside
+  image: profile_pic.JPG
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/tiffany-hu-career1101/
+    - icon: github
+      text: Github
+      href: https://github.com/Tiff-Hu
+    - text: Email
+      url: "mailto:eve9031bruin@g.ucla.edu"
 ---
 
-This is a Quarto website.
+As a data enthusiast who has a deep love for uncovering insights hidden in data and transforming them into actionable strategies, I've worked on exciting projects that range from predictive modeling to natural language processing. Studying statistics at UCLA, I'm passionate about continuous learning and sharing knowledge with the community. Let's connect and talk about all things data and beyond! Download [My Resume](/Tiffany_Hu_Resume_Stats140.pdf).
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+University of California, Los Angeles | Los Angeles, CA
+
+B.S. in Statistics | Sep. 2021 - Aug. 2025
+
+## Experience
+UCLA Anderson School of Management | Software Engineer | Dec. 2024 - present
+
+- Design and implement a full-stack application for chronic disease data analysis, integrating statistical models like logistic regression and survival analysis, and machine learning algorithms such as random forests and gradient boosting to uncover actionable insights.
+
+
+Department of Economics, UCLA | Data Research Team Lead | Oct. 2024 - present
+
+- Led a team of research assistants and analyzed cognitive impairment trends across multiple countries, leveraging large-scale, multi-country datasets to uncover actionable insights for the International Long-Term Care Project.
+
+
+Department of Mathematics, UCLA | Data Assistant | Spe. 2022 - Dec. 2023
+
+- Automated and optimized data workflows using Python, streamlining grading processes and reducing manual workloads by 26%, ensuring efficient data management for 50+ students.

@@ -8,6 +8,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: projects.qmd
+        text: Projects
 
 format:
   html:
@@ -17,3 +19,5 @@ format:
 
 editor: visual
 
+execute: 
+  freeze: auto
